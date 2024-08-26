@@ -1,6 +1,6 @@
 one line #from hastag update fromgitbash
-2nd line
-3rd line
+2nd line# again from git bash
+3rd line # update 3rd from root
 4th line# update 4th from root
 5th line adding #adding word update from root
 
