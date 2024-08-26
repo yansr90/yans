@@ -1,0 +1,359 @@
+[33mcommit 233e2aa9666210bda99cd1ee00d08e1cd3e543af[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 16:51:39 2024 +0000
+
+    ff
+
+[33mcommit 58e7e8e0bdb01b5338b86b561e4c5184b1f459d6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7151673 34ba1e6
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 16:41:17 2024 +0000
+
+    Merge branch 'main' of github.com:yansr90/yans
+
+[33mcommit 7151673d8b88d4a91338d7488dff0c718c2fb680[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 16:41:01 2024 +0000
+
+    ll
+
+[33mcommit 34ba1e68665b2ef28e32fc549ed04bcacc71469f[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 22:09:58 2024 +0530
+
+    gjhg
+
+[33mcommit 5aeee8108be579ff405af45e3f12d68a7c9e1167[m
+Merge: 4af4167 980adf2
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 21:58:57 2024 +0530
+
+    Merge branch 'main' of github.com:yansr90/yans
+
+[33mcommit 4af41679ec23e9194c0e5931061f35a4772d15a0[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 21:58:00 2024 +0530
+
+    ff
+
+[33mcommit 980adf2c9347312f87879fe49f50342a920f93ca[m
+Merge: 62519af f3e8edd
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 16:26:05 2024 +0000
+
+    fflflfl
+
+[33mcommit 62519aff0ef0a2c19c0ad697594907d166dbe44c[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 16:23:14 2024 +0000
+
+    gkgkgkg
+
+[33mcommit f3e8eddfaebdf59a6f58c662c3e4df6c1e569bd1[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 21:52:25 2024 +0530
+
+    fff
+
+[33mcommit 31b1a56cec7d0c7b6d7eb038a51177a95531ad7b[m
+Merge: 2ca8463 32c354b
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 21:49:55 2024 +0530
+
+    ghgh
+
+[33mcommit 2ca8463feb060eea2fb1c65a7d9b9c668e52515c[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 21:48:07 2024 +0530
+
+    llllll
+
+[33mcommit 32c354b307659397d81a268ea801fbd2190a205b[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 16:17:09 2024 +0000
+
+    fffgg
+
+[33mcommit 017502a2f232a0652708e0c42dcbb963e97f28b6[m
+Merge: 978225c 919583d
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 16:11:34 2024 +0000
+
+    frir
+
+[33mcommit 978225cb602cd5e047a9a176530d3541a27feb67[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 16:02:57 2024 +0000
+
+    coomit from root
+
+[33mcommit 919583d370dd41fd025fe1c81f0abb20a498dedb[m
+Merge: 7200a63 1d72f1b
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 21:24:23 2024 +0530
+
+    Merge branch 'main' of github.com:yansr90/yans
+
+[33mcommit 1d72f1b1b11c9b2c5bd02c73baf0c6b2b2f8281b[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 15:51:35 2024 +0000
+
+    commiting forom root
+
+[33mcommit 7200a63b1e0d493e950feaf217a1dbd4dd9924d5[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 21:19:54 2024 +0530
+
+    gh
+
+[33mcommit fecfa1f25a4f8ed2c36520e511760edf33979309[m
+Merge: b3f09b5 c334cfc
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 15:46:55 2024 +0000
+
+    making same with gitbash
+
+[33mcommit b3f09b50000558d601c9bb9f37107eff33757621[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 15:01:31 2024 +0000
+
+    push merge file from root
+
+[33mcommit 49267050f669cea2db3a46b0fc0034c3f2de8140[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 14:44:46 2024 +0000
+
+    update 2nd line from root before pulling form git hub
+
+[33mcommit c334cfccc9ae7e35e5b8ce92dd14f07233d3fbb1[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 20:12:56 2024 +0530
+
+     update 1st line of final.txt from gitbash
+
+[33mcommit 02cbf69a70f6d6ca737040f5eb03f66954f0549e[m
+Merge: 101e0e2 2f20e9d
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 14:26:41 2024 +0000
+
+    merge file from git bash
+
+[33mcommit 101e0e29ddef5c4b74c57c9c680eb3cf342d0bfc[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 14:26:09 2024 +0000
+
+    update 5thline in final from root
+
+[33mcommit 2f20e9d46bed2f2bd47dc176b0a84c79eb68227c[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 19:54:08 2024 +0530
+
+    delete 2ndline in gitb from gitbash
+
+[33mcommit 11fb099958c8adb28659b70ec6b6aca0fb547ab3[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 14:20:37 2024 +0000
+
+    coomit final.txt from root
+
+[33mcommit 62dd2718ae5f1bfff3d88e07aa252b7eaeaf653a[m
+Merge: ce9b726 891af97
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 13:59:44 2024 +0000
+
+    Merge branch 'main' of github.com:yansr90/yans
+
+[33mcommit ce9b72674bf0a11ce379994f852cdf9fca6644bf[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 13:59:32 2024 +0000
+
+    rrrr
+
+[33mcommit 891af9779a8c3fe5c6d85a35fe4347fde9e2fa42[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 19:28:44 2024 +0530
+
+    jj
+
+[33mcommit e9025ab8f13ef81409567d5db1a375d3674748ca[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 19:25:42 2024 +0530
+
+    kk
+
+[33mcommit 07cb52fd66235ed72645a917b5d43fd041a5cbca[m
+Merge: c68b88c 7656b1f
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 19:10:28 2024 +0530
+
+    gg
+
+[33mcommit c68b88c246e7de6ac074a9ff94ae2a7403b32162[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 18:59:48 2024 +0530
+
+    commit
+
+[33mcommit 7656b1f26c186d0cf8630a1070cabfc2974b8984[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 13:28:55 2024 +0000
+
+    bb
+
+[33mcommit 8e99b6bc4942f17732f36de07d4de2bfd4b25ca1[m
+Merge: 1ffb7da 25d57da
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 18:51:20 2024 +0530
+
+    Merge branch 'main' of github.com:yansr90/yans
+
+[33mcommit 1ffb7da6cad5e8945a502a6b869cd5dae6efb597[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 18:49:57 2024 +0530
+
+    bjbk
+
+[33mcommit 25d57da93cde873473f5c7ac945b6d07ed53ec5e[m
+Merge: 22cad14 b97d3ee
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 13:09:55 2024 +0000
+
+    uuuue
+
+[33mcommit 22cad147e45a8d473f035d13e8d24a304c7ded4c[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 13:03:49 2024 +0000
+
+    ertre
+
+[33mcommit b97d3ee01cefa8276a8a8f9a62c55d862b605f18[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 18:32:52 2024 +0530
+
+    kklklk
+
+[33mcommit e14297f7f7b4da786d2d4c56e899f217f1031328[m
+Merge: 130d9ae 92bb4e2
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 18:30:35 2024 +0530
+
+    Merge branch 'main' of github.com:yansr90/yans
+
+[33mcommit 130d9aef77403461808b2af1a08d996872b97d19[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 18:30:15 2024 +0530
+
+    kklk
+
+[33mcommit 92bb4e24ee49aad1436b320575f081b28be08459[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 12:59:01 2024 +0000
+
+    kk
+
+[33mcommit 9a31f77db6dc28f4a61af691a02254bcad077622[m
+Merge: e89c147 a42613b
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 12:52:39 2024 +0000
+
+    Merge branch 'main' of github.com:yansr90/yans
+
+[33mcommit e89c147484925b8d36e310f99bd95e385c151321[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 12:51:22 2024 +0000
+
+    vv
+
+[33mcommit a42613be0104537ace90e783de84ddffd6116091[m
+Merge: 516eeed 1344474
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 18:17:44 2024 +0530
+
+    updare
+
+[33mcommit 516eeedd40683b3e63d9ec55a29a74b18073612f[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 18:12:23 2024 +0530
+
+    commoi
+
+[33mcommit 1344474624f4fe59c0c4dbe7fb1099fd2e8e016b[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 12:38:52 2024 +0000
+
+    commiting again
+
+[33mcommit b031a16384641595f4cef0d63fd3a1df0eec0eb8[m[33m ([m[1;32mbranch1[m[33m)[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 09:13:43 2024 +0000
+
+    bvd
+
+[33mcommit 6d1183936882204c5d2a4df31c5df63abc9392a3[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 14:41:40 2024 +0530
+
+    bb
+
+[33mcommit 2de607fad2e16e309343010f8912acc861e15055[m
+Merge: 218f066 169fcb3
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 09:10:37 2024 +0000
+
+    bv
+
+[33mcommit 218f0665366808425734c24020ad01385322af45[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 09:05:44 2024 +0000
+
+    c
+
+[33mcommit 169fcb3b74204bdf78e969b5bcfd89a4bb1d6f9c[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 14:34:16 2024 +0530
+
+    commit
+
+[33mcommit 05460bdceab5592c700b84042d71a7909f7a8644[m
+Merge: 42f96b3 a304bd9
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 09:02:37 2024 +0000
+
+    commit
+
+[33mcommit 42f96b3ce9273b0574a353f56f3f4ba63cdec3eb[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 08:53:32 2024 +0000
+
+    update from ec2 2nd
+
+[33mcommit a304bd9cf6c084e47cc1554a532060a0cb6a5b93[m
+Merge: ec0f78d dd540f1
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 14:22:20 2024 +0530
+
+    update from gitbash 3nd
+
+[33mcommit ec0f78d05996e40c0b19ec9ec7934693cd044a16[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 14:19:21 2024 +0530
+
+    update from gitbash 2nd
+
+[33mcommit dd540f141653fbaca0aff9f8a4c811b7dc77e969[m
+Author: root <root@ip-172-31-15-178.ap-south-1.compute.internal>
+Date:   Mon Aug 26 08:47:47 2024 +0000
+
+    update from ec2
+
+[33mcommit f7e462d2faa72d72040a134044fe4e6b77afe7a7[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 14:16:39 2024 +0530
+
+    update from gitbash
+
+[33mcommit 86f7576c69e03c88c677c2a4d160455b6121d480[m
+Author: rout <yans.rout@gmail.com>
+Date:   Mon Aug 26 13:58:03 2024 +0530
+
+    commiting yans.txt
