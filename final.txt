@@ -1,4 +1,4 @@
-one line
+one line #from hastag update fromgitbash
 2nd line
 3rd line 
 4th line
